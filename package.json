@@ -1,0 +1,27 @@
+{
+  "name": "mmm-hatodo",
+  "version": "1.0.0",
+  "description": "MagicMirror² module that shows a Home Assistant to-do list and cycles through pages when the list is long.",
+  "main": "MMM-HATodo.js",
+  "license": "MIT",
+  "author": "PeanutToes6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeanutToes6/MMM-HATodo.git"
+  },
+  "homepage": "https://github.com/PeanutToes6/MMM-HATodo",
+  "bugs": {
+    "url": "https://github.com/PeanutToes6/MMM-HATodo/issues"
+  },
+  "keywords": [
+    "MagicMirror",
+    "MagicMirror2",
+    "MMM",
+    "Home Assistant",
+    "todo",
+    "to-do"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
